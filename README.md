@@ -20,6 +20,7 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-<a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonArenas&show_icons=true&theme=radical)</a>
+<a align="left">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonArenas&show_icons=true&theme=radical)</a>
+<a align="rigth">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonArenas&layout=compact)</a>
 
 </div>
